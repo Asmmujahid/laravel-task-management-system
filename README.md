@@ -47,9 +47,22 @@ php artisan migrate
 php artisan serve
 ```
 
-## Screenshots
+## 📸 Screenshots
 
-Screenshots will be added soon.
+### Login Page
+![Login Page](screenshots/login-page.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Team Lead Dashboard
+![Team Lead Dashboard](screenshots/team-lead-dashboard.png)
+
+### Team Member Dashboard
+![Team Member Dashboard](screenshots/team-member-dashboard.png)
+
+### Task Management
+![Task Management](screenshots/task-management.png)
 
 ## Author
 
