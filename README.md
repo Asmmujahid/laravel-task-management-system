@@ -4,6 +4,12 @@
 
 A role-based Task Management System built with Laravel 12. The application supports Admin, Team Lead, and Team Member roles with complete task lifecycle management.
 
+## 🌐 Live Application
+
+**Production:**
+
+https://laravel-task-management-system-production.up.railway.app/
+
 ## Features
 
 * Multi-role Authentication
